@@ -22,7 +22,17 @@ I love crafting clean, efficient, and scalable code, and I’m passionate about 
 I thrive in collaborative environments, bringing creative energy and problem-solving skills to every project I work on.
 
 ---
+### ⚙️ What I Do
 
+- ⚛️ Build **modern, scalable, and interactive applications** using React.js and Next.js  
+- 🎨 Design **responsive UIs** with CSS frameworks like Tailwind CSS, Bootstrap, and SASS  
+- 🔄 Integrate and manage **REST APIs** and global states with Redux Toolkit  
+- 🧩 Write **clean, modular, and maintainable** front-end code  
+- 🧠 Continuously learn new technologies and follow best coding practices  
+- 🤝 Collaborate with cross-functional teams (designers, backend developers, testers) to deliver high-quality solutions  
+- 🚀 Focus on **performance optimization**, **user experience**, and **accessibility**  
+
+---
 ### 🚀 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
