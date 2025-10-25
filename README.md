@@ -90,6 +90,16 @@ Designed dynamic project-tracking dashboards with interactive charts and analyti
 *React, Tailwind CSS, JavaScript*  
 Developed and maintained the official UNSI Tech company website.
 
+**💻 Automojo**  
+*A modern web application built with Next.js 14 using the App Router architecture.* 
+**🧰 Tech Stack:**  
+- **Framework:** Next.js 14 (App Router)  
+- **Language:** TypeScript  
+- **Styling:** Tailwind CSS  
+- **UI Components:** Shadcn UI  
+- **State Management:** TanStack React Query  
+- **Form Handling:** React Hook Form + Zod  
+- **HTTP Client:** Axios  
 ---
 
 ### 🎓 Education
